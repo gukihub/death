@@ -20,5 +20,5 @@ func worker2() {
 func main() {
 	go worker1()
 	worker2()
-	fmt.Println("done")
+	fmt.Println("done.")
 }
