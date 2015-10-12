@@ -22,4 +22,3 @@ func main() {
 	worker2()
 	fmt.Println("done")
 }
-merde
